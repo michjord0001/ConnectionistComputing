@@ -15,3 +15,7 @@ Testing:
    ((1, 0), 1)
    ((1, 1), 0)
 2. At the end of training, check if the MLP predicts correctly all the examples.
+
+
+In case GitHub can't render the notebook ("Sorry, something went wrong. Reload?"):
+https://nbviewer.jupyter.org/github/michjord0001/Multi-Layer-Perceptron/blob/master/MultiLayerPerceptron.ipynb
