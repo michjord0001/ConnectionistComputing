@@ -1,4 +1,4 @@
-# ConnectionistComputing
+# Multi-Layer-Perceptron
 Self-Coded Multi-Layer Perceptron without use of available neural network/connectionist/machine learning/... libraries.
 
 This software is completes the following:
